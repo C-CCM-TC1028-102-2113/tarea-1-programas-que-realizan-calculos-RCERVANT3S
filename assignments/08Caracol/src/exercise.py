@@ -1,22 +1,6 @@
-import os
-def main():
-    #escribe tu código abajo de esta línea
-    pass
 
-minutos = int(input("Dame los minutos:"))
+minutos = float(input("Dame los minutos:"))
 
-minutos = 1
-
-
-distancia = (5.7/10)*(60*minutos)
+    distancia = (5.7/10)*(60*minutos)
 
 print("Centímentros recorridos:",distancia)
-
-
-if __name__ == '__main__':
-    main()
-os.system("pause")
-
-
-
-    
