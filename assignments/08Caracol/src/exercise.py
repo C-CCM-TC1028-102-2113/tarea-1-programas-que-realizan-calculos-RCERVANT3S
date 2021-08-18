@@ -8,7 +8,7 @@ minutos = float(input("Introduce los minutos que correrá el caracol:"))
 
 distancia = (5.7/10)*(60)
 
-print("La distancia que hará",distancia,)
+print("La distancia que hará",distancia)
 
 
 
