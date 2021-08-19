@@ -15,14 +15,14 @@ def digitospares(número):
        
    
 
-número = input("Dame un número:")
+número = input("Dame un número: ")
 digitospares(número)
 
 par = len(lista)
 if par == 0:
     print("no hay ningún número par")
 else:    
-    print("El número de digitos pares es:",par)
+    print("El número de dígitos pares es: ",par)
 
 if __name__ == '__main__':
     main()
